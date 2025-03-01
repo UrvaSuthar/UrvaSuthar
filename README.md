@@ -12,6 +12,5 @@ I'm a passionate **Software Developer** with expertise in **.NET Core, C#, SQL S
 - **Other**: Agile, Scrum, TDD, SDLC
 
 ## 📫 Connect with Me
-- **Email**: [mr.urva@gmail.com](mailto:mr.urva@gmail.com)
 - **LinkedIn**: [linkedin.com/in/urva-suthar](https://linkedin.com/in/urva-suthar)
 - **GitHub**: [github.com/UrvaSuthar](https://github.com/UrvaSuthar)
