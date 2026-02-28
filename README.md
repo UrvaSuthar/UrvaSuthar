@@ -20,16 +20,16 @@ Building scalable apps with React Native • Next.js • .NET Core
 | [msmepayment](https://github.com/UrvaSuthar/msmepayment-frontend) | 💳 Full-stack MSME Payment System |
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UrvaSuthar&show_icons=true&theme=radical&count_private=true&rank_icon=github)
+![GitHub Stats](https://readme-stats-fast.vercel.app/api?username=UrvaSuthar&show_icons=true&theme=radical)
 
 ## 🔥 Streak Stats
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=UrvaSuthar&theme=radical)
 
 ## 🗣️ Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UrvaSuthar&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://readme-stats-fast.vercel.app/api/top-langs/?username=UrvaSuthar&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=UrvaSuthar&theme=gruvbox&column=-1&row=1)
+![Trophy](https://github-trophies.vercel.app/?username=UrvaSuthar&rank_icon=github&theme=gruvbox)
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/urva-suthar)
